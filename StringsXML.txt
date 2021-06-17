@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <ite m name="colorAccent">@color/black</item>
+    </style>
+
+    <string name="app_name">FinderOrg</string>
+    <string name="map_key" translatable="false">AIzaSyDA5n04ysRmSG_fpvrDfV7bwmyX9fDv1O8</string>
+
+</resources>
